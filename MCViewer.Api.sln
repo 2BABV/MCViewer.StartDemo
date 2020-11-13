@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MCViewer.Api", "MCViewer.Api\MCViewer.Api.csproj", "{F5AA8792-8E30-4D89-957C-925B7F592BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCViewer.Demo", "MCViewer.Demo\MCViewer.Demo.csproj", "{D37CE323-006C-4E7F-8B8E-414A8625F097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AA8792-8E30-4D89-957C-925B7F592BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AA8792-8E30-4D89-957C-925B7F592BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AA8792-8E30-4D89-957C-925B7F592BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AA8792-8E30-4D89-957C-925B7F592BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37CE323-006C-4E7F-8B8E-414A8625F097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37CE323-006C-4E7F-8B8E-414A8625F097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37CE323-006C-4E7F-8B8E-414A8625F097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37CE323-006C-4E7F-8B8E-414A8625F097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A4D851-4777-47C7-A5EA-54A3B3F7E5E0}
+	EndGlobalSection
+EndGlobal
