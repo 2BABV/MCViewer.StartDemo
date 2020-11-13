@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MCViewer.Api", "MCViewer.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCViewer.Demo", "MCViewer.Demo\MCViewer.Demo.csproj", "{D37CE323-006C-4E7F-8B8E-414A8625F097}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MCViewer.JS.Demo", "MCViewer.JS.Demo\MCViewer.JS.Demo.njsproj", "{87441732-42BE-475D-8410-744DCC96A8CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D37CE323-006C-4E7F-8B8E-414A8625F097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D37CE323-006C-4E7F-8B8E-414A8625F097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D37CE323-006C-4E7F-8B8E-414A8625F097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87441732-42BE-475D-8410-744DCC96A8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87441732-42BE-475D-8410-744DCC96A8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87441732-42BE-475D-8410-744DCC96A8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87441732-42BE-475D-8410-744DCC96A8CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

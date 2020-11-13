@@ -1,0 +1,13 @@
+{
+  "name": "mcviewer.js.demo",
+  "version": "1.0.0",
+  "description": "MCViewer.JS.Demo",
+  "main": "app.js",
+  "author": {
+    "name": "Joost Roza"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "open": "^7.3.0"
+  }
+}
