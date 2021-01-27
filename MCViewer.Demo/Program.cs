@@ -62,7 +62,7 @@ namespace MCViewer.Demo
 		private static IServiceProvider GetServiceProvider()
 		{
 			var serviceProvider = new ServiceCollection()
-				.AddMCViewer(new Uri("https://mc.alpha.2ba.nl")); // register MCViewerClient with DependancyInjection
+				.AddMCViewer(new Uri("https://mc.2ba.nl")); // register MCViewerClient with DependancyInjection
 
 			return serviceProvider.BuildServiceProvider();
 		}
