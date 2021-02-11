@@ -45,14 +45,7 @@ namespace MCViewer.Api
 		/// <summary>
 		/// Gets or sets the Content ("json" property in the request).
 		/// </summary>
-		[JsonIgnore]
+		[JsonProperty("Content")]
 		public MCViewerRequestContent Content { get; set; }
-
-		/// <summary>
-		/// Gets or sets the Json.
-		/// This reflects <see cref="Content"/> as json string.
-		/// </summary>
-		[JsonProperty("json")]
-		internal string Json => JsonConvert.SerializeObject(Content);
 	}
 }
