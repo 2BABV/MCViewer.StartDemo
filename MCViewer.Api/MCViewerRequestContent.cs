@@ -18,5 +18,8 @@ namespace MCViewer.Api
 		/// </summary>
 		[JsonProperty("Features")]
 		public List<MCViewerEtimFeature> Features { get; set; }
+
+		[JsonProperty("Reference")]
+		public object Reference { get; set; }
 	}
 }

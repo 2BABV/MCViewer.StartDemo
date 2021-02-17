@@ -37,8 +37,17 @@ namespace MCViewer.Demo
 							RangeUpperValue= null,
 							AlphaNumericValue= null
 						}
+					},
+					Reference = new
+					{
+						This = "can be any object",
+						You = "would like it to be.",
+						As = "long as it is json-seralizable.",
+						We = "recommend to store a token",
+						In = "here, either as string",
+						Or = "as object (this example is an object)",
+						Good = "luck!"
 					}
-					/* And more... */
 				}
 			};
 

@@ -19,7 +19,17 @@ var postObj = ({
 				rangeUpperValue: null,
 				alphaNumericValue: null
 			}
-		]
+		],
+		Reference:
+		{
+			this: "can be any object",
+			you: "would like it to be.",
+			as: "long as it is json-seralizable.",
+			we: "recommend to store a token",
+			in: "here, either as string",
+			or: "as object (this example is an object)",
+			good: "luck!"
+		}
 	}
 });
 
