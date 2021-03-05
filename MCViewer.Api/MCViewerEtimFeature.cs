@@ -14,7 +14,7 @@ namespace MCViewer.Api
 		public decimal? NumericValue { get; set; }
 
 		[JsonProperty("LogicalValue")]
-		public decimal? LogicalValue { get; set; }
+		public bool? LogicalValue { get; set; }
 
 		[JsonProperty("RangeLowerValue")]
 		public decimal? RangeLowerValue { get; set; }
