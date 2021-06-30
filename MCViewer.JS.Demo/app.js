@@ -2,41 +2,28 @@
 
 const axios = require('axios')
 const open = require('open');
+const fs = require('fs');
 
-
-var postObj = {
-    hookUrl: 'https://www.2ba.nl',
-    languageCode: 'NL',
-    json: JSON.stringify({
-        "ClassId": "MC000043",
-        "Features": [
-            {
-                "FeatureId": "EF010527",
-                "Portcode": 2,
-                "NumericValue": 89,
-                "LogicalValue": null,
-                "RangeLowerValue": null,
-                "RangeUpperValue": null,
-                "AlphaNumericValue": null
-            }
-        ]
-    })
-};
+var postObj = JSON.parse(fs.readFileSync("./payload.json")); // json.parse because readFileSync returns raw data (bytes)
 
 console.log(postObj);
-
+let baseUrl = "https://mc.2ba.nl";
 axios
-    .post('https://mc.2ba.nl/ApiService/GetViewCodeFromInputFromBody', postObj, {
-        headers: {
-            'Content-Type': 'application/json',
-        }
-    })
-    .then((res) => {
-        console.log(`statusCode: ${res.statusCode}`)
-        console.log(res.data)
+	.post(baseUrl + '/ApiService/GetViewCodeFromInputFromBody', postObj, {
+		headers: {
+			'Content-Type': 'application/json',
+		}
+	})
+	.then((res) => {
+		console.log(`statusCode: ${res.status} - ${res.statusText}`)
+		console.log(res.data)
 
-        open("https://mc.2ba.nl/NL/View/" + res.data.ViewCode);
-    })
-    .catch((error) => {
-        console.error(error)
-    });
+		open(baseUrl + "/NL/View/" + res.data.ViewCode);
+	})
+	.catch((error) => {
+		console.error(error)
+	}).then(async (res) => {
+		// Hack to "sleep" and prevent node.js from exiting so you can read the output.
+		await new Promise(resolve => setTimeout(resolve, 10000));
+	});
+
