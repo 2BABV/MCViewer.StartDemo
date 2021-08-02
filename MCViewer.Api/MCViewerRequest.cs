@@ -45,7 +45,6 @@ namespace MCViewer.Api
 		/// <summary>
 		/// Gets or sets the Content ("json" property in the request).
 		/// </summary>
-		[JsonIgnore]
 		public MCViewerRequestContent Content { get; set; }
 
 		/// <summary>

@@ -1,0 +1,1529 @@
+{
+	"Content": {
+		"ClassId": "MC000266",
+		"Features": [
+			{
+				"FeatureId": "EF004139",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF003625",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024947",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024952",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024954",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024957",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024955",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024956",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024964",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024965",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024967",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024968",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF020136",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF020139",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF005774",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": false,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024998",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF002269",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000167",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 1,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020238"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 1,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF020136",
+				"Portcode": 1,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF020139",
+				"Portcode": 1,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 1,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 1,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 1,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 1,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 1,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 2,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 2,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF020136",
+				"Portcode": 2,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF020139",
+				"Portcode": 2,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 2,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 2,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 2,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 2,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 2,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 3,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 3,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF020136",
+				"Portcode": 3,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF020139",
+				"Portcode": 3,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 3,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 3,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 3,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 3,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 3,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 4,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 4,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF020136",
+				"Portcode": 4,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF020139",
+				"Portcode": 4,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 4,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 4,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 4,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 4,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 4,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 5,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 5,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF020136",
+				"Portcode": 5,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF020139",
+				"Portcode": 5,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 5,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 5,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 5,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 5,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 5,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 6,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 6,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024967",
+				"Portcode": 6,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF024968",
+				"Portcode": 6,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 6,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 6,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 6,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 6,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 6,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 7,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 7,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024967",
+				"Portcode": 7,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF024968",
+				"Portcode": 7,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 7,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 7,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 7,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 7,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 7,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 8,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 8,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024967",
+				"Portcode": 8,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF024968",
+				"Portcode": 8,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 8,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 8,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 8,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 8,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 8,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 9,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 9,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024967",
+				"Portcode": 9,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF024968",
+				"Portcode": 9,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 9,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 9,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 9,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 9,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 9,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 10,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020027"
+			},
+			{
+				"FeatureId": "EF011006",
+				"Portcode": 10,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024967",
+				"Portcode": 10,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV004591"
+			},
+			{
+				"FeatureId": "EF024968",
+				"Portcode": 10,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 10,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 10,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 10,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011005",
+				"Portcode": 10,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 10,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 11,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020001"
+			},
+			{
+				"FeatureId": "EF023191",
+				"Portcode": 11,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV005372"
+			},
+			{
+				"FeatureId": "EF006272",
+				"Portcode": 11,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010721",
+				"Portcode": 11,
+				"NumericValue": 300,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 11,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010818",
+				"Portcode": 11,
+				"NumericValue": 100,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 11,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 11,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 11,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000443",
+				"Portcode": 12,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV020001"
+			},
+			{
+				"FeatureId": "EF023191",
+				"Portcode": 12,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": "EV005372"
+			},
+			{
+				"FeatureId": "EF006272",
+				"Portcode": 12,
+				"NumericValue": 20,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010721",
+				"Portcode": 12,
+				"NumericValue": 350,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF022519",
+				"Portcode": 12,
+				"NumericValue": 75,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010818",
+				"Portcode": 12,
+				"NumericValue": 100,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010520",
+				"Portcode": 12,
+				"NumericValue": 25,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010521",
+				"Portcode": 12,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010546",
+				"Portcode": 12,
+				"NumericValue": 2,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024944",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": false,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024945",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000351",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024948",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024949",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024950",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF021959",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024966",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024974",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024975",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024979",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024996",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024997",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024999",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF024995",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": false,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011072",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF005455",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000870",
+				"Portcode": 0,
+				"NumericValue": 500,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000865",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000040",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000008",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000049",
+				"Portcode": 0,
+				"NumericValue": 0,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000868",
+				"Portcode": 0,
+				"NumericValue": 1000,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF011432",
+				"Portcode": 0,
+				"NumericValue": 50,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010006",
+				"Portcode": 0,
+				"NumericValue": 400,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF010887",
+				"Portcode": 0,
+				"NumericValue": 450,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF021554",
+				"Portcode": 0,
+				"NumericValue": 50,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF021555",
+				"Portcode": 0,
+				"NumericValue": 50,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000869",
+				"Portcode": 0,
+				"NumericValue": 1000,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF013948",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF013950",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF014339",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF015061",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF015062",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF015063",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": 0,
+				"RangeUpperValue": 0,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF013945",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF013946",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF013947",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF000871",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF014925",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF014926",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			},
+			{
+				"FeatureId": "EF014927",
+				"Portcode": 0,
+				"NumericValue": null,
+				"LogicalValue": null,
+				"RangeLowerValue": null,
+				"RangeUpperValue": null,
+				"AlphaNumericValue": null
+			}
+		],
+		"Reference": {
+			"InterfaceObjectId": 257163168,
+			"Referer": "https://uol-unifeed.2ba.nl/?interface=96&interfaceType=JSONGET&InterfaceObjectId=257163168"
+		}
+	},
+	"HookUrl": "https://www.google.com/",
+	"CancelUrl": "https://uol-unifeed.2ba.nl/?interface=96&interfaceType=JSONGET&InterfaceObjectId=257163168",
+	"Languagecode": "NL",
+	"DisableAnimation": false,
+	"Reference": null,
+	"style": "UOB"
+}
