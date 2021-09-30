@@ -22,6 +22,7 @@ namespace MCViewer.Demo
 			{
 				HookUrl = "https://www.2ba.nl",
 				LanguageCode = "NL",
+				Style = MCViewerStyle.UOL,
 				Content = new MCViewerRequestContent()
 				{
 					ClassId = "MC000043",
