@@ -1,6 +1,7 @@
 {
 	"hookUrl": "https://www.2ba.nl",
 	"languageCode": "NL",
+	"Style": "UOB",
 	"content": {
 		"classId": "MC000043",
 		"features": [
