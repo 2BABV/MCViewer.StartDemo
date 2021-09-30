@@ -16,6 +16,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using MCViewer.Api;
 using Newtonsoft.Json;
+using System.Diagnostics;
 
 namespace BrowserSwitchDemo
 {
@@ -51,7 +52,12 @@ namespace BrowserSwitchDemo
 			browser_compatible.Visibility = Visibility.Visible;
 			browser_wv2.Visibility = Visibility.Hidden;
 
-			browser_compatible.Navigate(_response.ViewUrl);
+			browser_compatible.Navigate("https://uol-unifeed.2ba.nl/?interface=96&interfaceType=JSONGET#");
+
+			browser_compatible.NewWindowRequested += (o, e2) =>
+			{
+				Process.Start(e2.Uri.ToString());
+			};
 		}
 
 		private void btn_wv2_Click(object sender, RoutedEventArgs e)
@@ -74,7 +80,7 @@ namespace BrowserSwitchDemo
 		private static IServiceProvider GetServiceProvider()
 		{
 			var serviceProvider = new ServiceCollection()
-				.AddMCViewer(new Uri("https://mc.2ba.nl")); // register MCViewerClient with DependancyInjection
+				.AddMCViewer(new Uri("https://mc.alpha.2ba.nl")); // register MCViewerClient with DependancyInjection
 
 			return serviceProvider.BuildServiceProvider();
 		}
