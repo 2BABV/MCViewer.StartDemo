@@ -52,5 +52,8 @@ namespace MCViewer.Api
 		[JsonProperty("Style")]
 		[JsonConverter(typeof(StringEnumConverter))]
 		public MCViewerStyle Style { get; set; }
+
+		[JsonProperty("DisplayProperties")]
+		public List<DisplayProperty> DisplayProperties { get; set; }
 	}
 }

@@ -49,6 +49,21 @@ namespace MCViewer.Demo
 						Or = "as object (this example is an object)",
 						Good = "luck!"
 					}
+				},
+				DisplayProperties = new List<DisplayProperty>()
+				{
+					new DisplayProperty
+					{
+						Name = "Productomschrijving",
+						Value = "Demo product voor MC-Viewer",
+						SortOrder = 1
+					},
+					new DisplayProperty
+					{
+						Name = "Productcode",
+						Value = "prod.code.demo",
+						SortOrder = 2
+					}
 				}
 			};
 
@@ -72,7 +87,8 @@ namespace MCViewer.Demo
 		private static IServiceProvider GetServiceProvider()
 		{
 			var serviceProvider = new ServiceCollection()
-				.AddMCViewer(new Uri("https://mc.2ba.nl")); // register MCViewerClient with DependancyInjection
+				//.AddMCViewer(new Uri("https://mc.alpha.2ba.nl")); // register MCViewerClient with DependancyInjection
+				.AddMCViewer(new Uri("https://localhost:44395")); // register MCViewerClient with DependancyInjection
 
 			return serviceProvider.BuildServiceProvider();
 		}
