@@ -2,36 +2,9 @@
 
 const axios = require('axios')
 const open = require('open');
+const fs = require('fs');
 
-
-var postObj = ({
-	hookUrl: 'https://www.2ba.nl',
-	languageCode: 'NL',
-	content: {
-		classId: "MC000043",
-		features: [
-			{
-				featureId: "EF010527",
-				portcode: 2,
-				numericValue: 89,
-				logicalValue: null,
-				rangeLowerValue: null,
-				rangeUpperValue: null,
-				alphaNumericValue: null
-			}
-		],
-		Reference:
-		{
-			this: "can be any object",
-			you: "would like it to be.",
-			as: "long as it is json-seralizable.",
-			we: "recommend to store a token",
-			in: "here, either as string",
-			or: "as object (this example is an object)",
-			good: "luck!"
-		}
-	}
-});
+var postObj = JSON.parse(fs.readFileSync("./payload.json")); // json.parse because readFileSync returns raw data (bytes)
 
 console.log(postObj);
 let baseUrl = "https://mc.2ba.nl";
@@ -49,4 +22,8 @@ axios
 	})
 	.catch((error) => {
 		console.error(error)
+	}).then(async (res) => {
+		// Hack to "sleep" and prevent node.js from exiting so you can read the output.
+		await new Promise(resolve => setTimeout(resolve, 10000));
 	});
+

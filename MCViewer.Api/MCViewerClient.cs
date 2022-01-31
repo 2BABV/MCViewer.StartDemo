@@ -22,6 +22,11 @@ namespace MCViewer.Api
 				throw new ArgumentNullException("Request cannot be null.");
 			}
 
+			if (request.DisplayProperties != null && request.DisplayProperties.Count > 8)
+			{
+				throw new ArgumentException($"DisplayProperties may not contain more than 8 entries.");
+			}
+
 			// Create a json string from the request
 			var payload = JsonConvert.SerializeObject(request);
 			HttpResponseMessage response;

@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -47,5 +48,12 @@ namespace MCViewer.Api
 		/// </summary>
 		[JsonProperty("Content")]
 		public MCViewerRequestContent Content { get; set; }
+
+		[JsonProperty("Style")]
+		[JsonConverter(typeof(StringEnumConverter))]
+		public MCViewerStyle Style { get; set; }
+
+		[JsonProperty("DisplayProperties")]
+		public List<DisplayProperty> DisplayProperties { get; set; }
 	}
 }
