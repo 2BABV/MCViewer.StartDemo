@@ -15,7 +15,7 @@ namespace MCViewer.Api
             _httpClient = httpClient;
         }
 
-        public async System.Threading.Tasks.Task<MCViewerResponse> RequestAsync(MCViewerRequest request)
+        public async System.Threading.Tasks.Task<MCViewerResponse> RequestAsync(IMCViewerRequest request)
         {
             if (request is null)
             {
