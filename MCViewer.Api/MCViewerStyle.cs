@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Runtime.Serialization;
-using System.Text;
+﻿using System.Runtime.Serialization;
 
 namespace MCViewer.Api
 {
-	public enum MCViewerStyle
+    public enum MCViewerStyle
 	{
 		[EnumMember(Value = "2BA")]
 		/// <summary>

@@ -1,4 +1,5 @@
 ﻿using MCViewer.Api;
+using MCViewer.Api.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using System;
@@ -8,14 +9,14 @@ using System.Threading.Tasks;
 
 namespace MCViewer.Demo
 {
-	class Program
+    class Program
 	{
 		static async Task Main(string[] args)
 		{
 			var serviceProdiver = GetServiceProvider();
 
 			// Get the MCViewerClient from the service provider
-			var mcClient = serviceProdiver.GetService<MCViewerClient>();
+			var mcClient = serviceProdiver.GetService<IMCViewerClient>();
 
 			// Create a payload
 			var payload = new MCViewerRequest()
@@ -26,7 +27,7 @@ namespace MCViewer.Demo
 				Content = new MCViewerRequestContent()
 				{
 					ClassId = "MC000043",
-					Features = new List<MCViewerEtimFeature>
+					Features = new List<IMCViewerEtimFeature>
 					{
 						new MCViewerEtimFeature
 						{
@@ -50,7 +51,7 @@ namespace MCViewer.Demo
 						Good = "luck!"
 					}
 				},
-				DisplayProperties = new List<DisplayProperty>()
+				DisplayProperties = new List<IDisplayProperty>()
 				{
 					new DisplayProperty
 					{
