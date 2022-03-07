@@ -1,5 +1,6 @@
 ﻿using MCViewer.Api;
 using MCViewer.Api.Interfaces;
+using MCViewer.Api.Extensions;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using System;

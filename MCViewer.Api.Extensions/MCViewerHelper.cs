@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using System;
 
-namespace MCViewer.Api
+namespace MCViewer.Api.Extensions
 {
     public static class MCViewerHelper
 	{

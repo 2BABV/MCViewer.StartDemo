@@ -12,6 +12,7 @@
 	</ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MCViewer.Api.Extensions\MCViewer.Api.Extensions.csproj" />
     <ProjectReference Include="..\MCViewer.Api\MCViewer.Api.csproj" />
   </ItemGroup>
 
